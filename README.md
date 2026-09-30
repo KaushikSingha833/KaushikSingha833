@@ -28,9 +28,9 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **MoviezWiki** (An AI-powered IMDb clone using Gemini & Mistral APIs)
 - 🏢 Previously worked as a **Software Engineering Intern at Accenture** focusing on AEM components.
-- 🌱 I’m currently exploring **Advanced Web Technologies & Generative AI**
+- 🌱 I’m currently exploring **Advanced Web Technologies, Generative AI & Deep Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Python, PHP, TypeScript, AEM, and System Design**
+- 💬 Ask me about **Java, Python, Next.js, FastAPI, AEM, and System Design**
 - ⚡ Fun fact: **I love building things that make life easier!**
 
 ---
@@ -56,26 +56,56 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Arsenal
+
+- **Languages:** Python, Java, C, TypeScript, JavaScript, HTML5, CSS3, SQL
+- **Frontend & UI:** React, Next.js, Tailwind CSS, Three.js, React Three Fiber/Drei, Framer Motion, Recharts, Leaflet, React Leaflet
+- **Backend & Cloud:** Node.js, FastAPI, Uvicorn, Firebase (Firestore, Auth), Maven, Vercel
+- **AI, ML & Data Science:** PyTorch, Torchvision, Scikit-learn, OpenCV, Hugging Face Transformers, Sentence Transformers, NLTK, spaCy, NumPy, Pandas, Matplotlib, Seaborn, Streamlit, Whisper, MobileNetV3-Large, CBAM, Error Level Analysis (ELA), ROUGE, BERTScore
+- **APIs & Integration:** Google Gemini API, YouTube Transcript API, Unsplash API, Duffel API, REST APIs, SMTP, Nodemailer
+- **Tools & Utilities:** Git, GitHub, Adobe Experience Manager (AEM), jsPDF, Pillow, TQDM, yt-dlp, NetworkX
+
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,ts,js,c,html,css,mysql,firebase,react,nodejs,git,github,docker,vscode&perline=15" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,html,css,react,nextjs,tailwind,nodejs,fastapi,mysql,firebase,pytorch,scikitlearn,opencv,git,github,docker,vercel,vscode&perline=11" />
   </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Showcase Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎬 **[MoviezWiki-Web](https://github.com/KaushikSingha833/MoviezWiki-Web)** | A PHP-based IMDb clone with user accounts, wishlists, and AI-powered movie summaries using Gemini and Mistral APIs. | `PHP`, `HTML`, `CSS`, `AI APIs` |
-| 🌍 **[wanderhub](https://github.com/KaushikSingha833/wanderhub)** | A modern web application providing seamless user experiences. | `TypeScript` |
-| 🛡️ **[Crime Pattern Detection](https://github.com/KaushikSingha833)** | Data analysis application identifying temporal crime trends. | `Python`, `Machine Learning` |
-| 🧠 **[QuizMaster](https://github.com/KaushikSingha833)** | Secure serverless quiz app with dynamic form tracking & real-time analytics. | `Firebase`, `JavaScript` |
-| ✈️ **[Airline-Management-System](https://github.com/KaushikSingha833/Airline-Management-System)** | A comprehensive airline reservation and management system. | `C` |
-| 📦 **[Logistics-and-Supply-Chain](https://github.com/KaushikSingha833/Logistics-and-Supply-Chain)** | Enterprise-level logistics and supply chain management software. | `Java` |
+<div align="center">
+  <a href="https://github.com/KaushikSingha833/ODD2F-Deepfake-Detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=ODD2F-Deepfake-Detector&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ODD2F-Deepfake-Detector" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/yt-video-summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=yt-video-summarizer&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="yt-video-summarizer" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/MoviezWiki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=MoviezWiki&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="MoviezWiki" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/MoviezWiki-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=MoviezWiki-Web&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="MoviezWiki-Web" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/wanderhub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=wanderhub&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="wanderhub" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/QuizMaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=QuizMaster&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="QuizMaster" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/Portfolio_Updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=Portfolio_Updated&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio_Updated" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/Logistics-and-Supply-Chain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=Logistics-and-Supply-Chain&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Logistics-and-Supply-Chain" />
+  </a>
+  <a href="https://github.com/KaushikSingha833/Airline-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaushikSingha833&repo=Airline-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Airline-Management-System" />
+  </a>
+</div>
 
 ---
 
